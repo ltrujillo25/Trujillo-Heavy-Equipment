@@ -1,5 +1,6 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: '/Trujillo-Heavy-Equipment'
+paginate: 10
+gems: [jekyll-paginate]
 
 # Site settings
 title: Awesome Title
