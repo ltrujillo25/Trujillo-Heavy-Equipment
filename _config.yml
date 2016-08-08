@@ -1,4 +1,4 @@
-baseurl: '/Trujillo-Heavy-Equipment'
+
 paginate: 10
 gems: [jekyll-paginate]
 
